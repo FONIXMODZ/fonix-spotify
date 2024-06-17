@@ -1,8 +1,10 @@
-{ 
-   "force_update":false,
-   "version":0.0,
-   "changelog":"
-   \n[Base] 208.0.0.32.135!
-   \n[Added] Download Settings!
-   \n[Fixed] Many other fixes and improvements!"
+{
+"version": "2.1",
+"title": "Update Available!",
+"NewVersion": "2.1",
+"downloadLink": "https://fonixmodsapkstore.blogspot.com/2023/08/fonix-spotify-premium.html",
+"changeLogMessage": "A new update is available for the app.Udate for the latest Version Of Fonix Mod's Spotify",
+"negativebtn": "Later",
+"positivebtn": "Update Now",
+"changelogTitle": "Changelogs"
 }
