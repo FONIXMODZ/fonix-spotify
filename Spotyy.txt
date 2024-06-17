@@ -1,7 +1,7 @@
 {
-"version": "1.0",
+"version": "8.9.48.575",
 "title": "Update Available!",
-"NewVersion": "1.0",
+"NewVersion": "8.9.48.575",
 "downloadLink": "https://fonixmodsapkstore.blogspot.com/2023/08/fonix-spotify-premium.html",
 "changeLogMessage": "A new update is available for the app.Udate for the latest Version Of Fonix Mod's Spotify",
 "negativebtn": "Later",
